@@ -1,0 +1,2 @@
+# szgmgyak
+Elso repo
